@@ -1,0 +1,12 @@
+Bài 1:
+    a. /html/body/div/div[1]/form/input[1]
+    b. /html/body/div/div[1]/form/button
+    c. /html/body/div/div[2]/table/tbody/tr[1]
+
+
+Bài  2: 
+    a. //input[@placeholder='Số điện thoại']
+    b. 
+    c. 
+    d. //button[@class='register']
+    e. //table[@id='resultTable']
