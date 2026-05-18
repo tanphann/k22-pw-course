@@ -11,3 +11,5 @@ test('Test 1: Điền vào trang register page', async ({ page }) => {
         await page.locator("//input[@id='username']").pressSequentially("Ngoc Vo lop K22, Hong Nhung K22", { delay: 200 });
     });
 });
+
+
